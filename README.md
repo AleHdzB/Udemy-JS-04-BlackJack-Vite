@@ -2,7 +2,7 @@
 
 This project was developed as part of a **Udemy** course taught by **Fernando Herrera** from **DevTalles**. It is an interactive Black Jack web game implemented with modern web technologies.  
 
-![BlackJack Demo](./screenshots/blackjack-demo.gif)
+![BlackJack Demo](./ScreenShots/blackjack-demo.gif)
 
 ## 📝 Description  
 
